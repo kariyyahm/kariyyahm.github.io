@@ -50,7 +50,7 @@ items.forEach(
 
 **（1）size 属性**
 
-size`属性返回 Map 结构的成员总数。
+`size`属性返回 Map 结构的成员总数。
 
 **（2）Map.prototype.set(key, value)**
 
